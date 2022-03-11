@@ -1,0 +1,14 @@
+{
+  "name": "single-price-component",
+  "author": "inThaHouse",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  }
+}
